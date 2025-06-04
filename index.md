@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my portfolio. Here are a few examples of projects I've done
 ---
